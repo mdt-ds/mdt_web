@@ -1,0 +1,40 @@
+---
+title: "Mario De Toma"
+description: "and his Mathematical and Data Trajectories"
+page-layout: full
+---
+
+::: {.column-page-inset}
+::: {.column-page-inset-left}
+I am the scientific coordinator at the Data Science Research Network at the University of Vienna.
+
+I previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.
+
+My research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.
+
+I’m most interested in methodological research useful for the study of social phenomena.
+:::
+
+<div class="column-margin column-container">
+![](mdtThinking0_cubist.jpg){.rounded}
+</div>
+:::
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://twitter.com/mariodetoma" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+<a class="btn btn-outline-dark", href="https://github.com/mdt-ds" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/mario-de-toma-90bb902/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+<a class="btn btn-outline-dark", href="mailto:mariodetoma.dsp@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::

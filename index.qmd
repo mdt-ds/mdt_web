@@ -1,0 +1,71 @@
+---
+title: "Mario De Toma"
+image: mdtThinking0_cubist.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/mariodetoma"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/mdt-ds"
+    - text: Email
+      icon: envelope
+      url: "mailto:mariodetoma.dsp@gmail.com"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/mario-de-toma-90bb902"
+    
+comments: false
+---
+
+::: {.column-page}
+
+## Bio
+
+Mario De Toma is both an IT manager and a data scientist, an R programming tutor and, at the same time, a learner climbing impassable learning curves. 
+Mario's background includes almost 20 years working as project and service manager in IT consulting and service corporations.
+
+Mario is passionate about mathematical and computational thinking.
+On this site he keeps a list of his [publications](publications.qmd) about computational and data science.
+
+<p></p>
+
+## Actual Work Position
+
+**Reply for Edison**  
+Milan, Italy
+
+Cloud IT Service Manager | September 2021 - present
+
+<p></p>
+
+## Publications
+
+**Stream of Data Consciousness** Mario De Toma 2020 - 2021  
+data science and quantitative analysis adventures blog  
+[Stream of Data Consciousness](https://www.mdt-datascience.com/)
+
+**Computing Matrix Algebra** Mario De Toma April 2020  
+book about computational matrix algebra in R, Rcpp, RcppArmadillo and RcppEigen.  
+[Computing Matrix Algebra](https://leanpub.com/computingmatrixalgebra).    
+In January 2023 the booklet became an interactive course published by [educative](https://www.educative.io/collection/10370001/4727811482320896).
+
+## Education & Professional Formation
+
+**Politecnico di Milano University**  
+Milan, Italy
+
+Master level degree in Electrical Engineering | April 1990  
+
+<p></p>
+
+**HarvardX**  
+online learning initiative of Harvard University through edX
+
+[Professional certificate in data science](https://credentials.edx.org/credentials/13b2bf784d404666b76ea46164df737d/)
+
+<p></p>
+
+:::

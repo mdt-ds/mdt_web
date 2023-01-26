@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mario De Toma",
+    "section": "",
+    "text": "Mario De Toma is both an IT manager and a data scientist, an R programming tutor and, at the same time, a learner climbing impassable learning curves. Mario’s background includes almost 20 years working as project and service manager in IT consulting and service corporations.\nMario is passionate about mathematical and computational thinking. On this site he keeps a list of his publications about computational and data science.\n\n\n\n\n\nReply for Edison\nMilan, Italy\nCloud IT Service Manager | September 2021 - present\n\n\n\n\n\nStream of Data Consciousness Mario De Toma 2020 - 2021\ndata science and quantitative analysis adventures blog\nStream of Data Consciousness\nComputing Matrix Algebra Mario De Toma April 2020\nbook about computational matrix algebra in R, Rcpp, RcppArmadillo and RcppEigen.\nComputing Matrix Algebra.\nIn January 2023 the booklet became an interactive course published by educative.\n\n\n\nPolitecnico di Milano University\nMilan, Italy\nMaster level degree in Electrical Engineering | April 1990\n\n\nHarvardX\nonline learning initiative of Harvard University through edX\nProfessional certificate in data science"
+  },
+  {
+    "objectID": "index_full.html",
+    "href": "index_full.html",
+    "title": "Mario De Toma",
+    "section": "",
+    "text": "I am the scientific coordinator at the Data Science Research Network at the University of Vienna.\nI previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.\nMy research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.\nI’m most interested in methodological research useful for the study of social phenomena."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Stream of data consciousness blog is a collection of data analysis. Each post represents a serious tentative to answer relevant questions (at least for the author) through data science.\nPosts are not always an easy read: while the industry follow the path called “democratize” data science, content posted assumes readers have a certain degree of data science awareness.\nThis blog project has been active from March 2020 up to October 2021 but it is currently considered closed."
+  },
+  {
+    "objectID": "publications.html#computing-matrix-algebra",
+    "href": "publications.html#computing-matrix-algebra",
+    "title": "publications",
+    "section": "Computing Matrix Algebra",
+    "text": "Computing Matrix Algebra\nNobody can be a poet without feeling strong affection for words, at the same time nobody can be serious about data science without becoming close friend to matrices.\nComputing Matrix Algebra is actually a cheat sheet about computing matrix algebra operations such as matrix multiplication, inversion and factorization.\nIt is written foR (aspiring) data scientists where with “foR” (capital letter R) it is meant the side of data science addicted to R and its gorgeous ecosystem especially including Rcpp, RcppArmadillo and RcppEigen.\nIt was written taking advantage of the stay-at-home policy during the COVID outbreak and published in April 2020 on Leanpub.\nIn January 2023 the booklet became an interactive course published by educative."
+  },
+  {
+    "objectID": "publications.html#explain-the-change",
+    "href": "publications.html#explain-the-change",
+    "title": "publications",
+    "section": "Explain the Change",
+    "text": "Explain the Change\nwork in progress, expected release date: October 2023"
+  }
+]
