@@ -21,6 +21,6 @@ It was written taking advantage of the stay-at-home policy during the COVID outb
 
 In January 2023 the booklet became an interactive course published by [educative](https://www.educative.io/collection/10370001/4727811482320896).
 
-## Explain the Change
+## on war: a mathematical and computational approach
 
-work in progress, expected release date: October 2023
+work in progress, expected release date: June 2023
