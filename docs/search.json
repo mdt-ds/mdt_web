@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "dynamical_systems.html",
+    "href": "dynamical_systems.html",
+    "title": "dynamical systems",
+    "section": "",
+    "text": "Mario De Toma strong interest in dynamical systems is demonstrated by his completed studies on the Santa Fe Institute’s Complexity Explorer platform and his self-published essay Explaining Change.\n\nIntroduction to Dynamical Systems and Chaos, Santa Fe Institute\nNonlinear Dynamics: Mathematical and Computational Approaches, Santa Fe Institute\nExplain the Change"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mario De Toma",
@@ -26,20 +33,6 @@
     "title": "publications",
     "section": "Computing Matrix Algebra",
     "text": "Computing Matrix Algebra\nNobody can be a poet without feeling strong affection for words, at the same time nobody can be serious about data science without becoming close friend to matrices.\nComputing Matrix Algebra is actually a cheat sheet about computing matrix algebra operations such as matrix multiplication, inversion and factorization.\nIt is written foR (aspiring) data scientists where with “foR” (capital letter R) it is meant the side of data science addicted to R and its gorgeous ecosystem especially including Rcpp, RcppArmadillo and RcppEigen.\nIt was written taking advantage of the stay-at-home policy during the COVID outbreak and published in April 2020 on Leanpub.\nIn January 2023 the booklet became an interactive course published by educative."
-  },
-  {
-    "objectID": "publications.html#explain-the-change",
-    "href": "publications.html#explain-the-change",
-    "title": "publications",
-    "section": "Explain the Change",
-    "text": "Explain the Change\nwork in progress, expected release date: October 2023"
-  },
-  {
-    "objectID": "dynamical_systems.html",
-    "href": "dynamical_systems.html",
-    "title": "dynamical systems",
-    "section": "",
-    "text": "Mario De Toma strong interest in dynamical systems is demonstrated by his completed studies on the Santa Fe Institute’s Complexity Explorer platform and his self-published essay Explaining Change.\n\nIntroduction to Dynamical Systems and Chaos, Santa Fe Institute\nNonlinear Dynamics: Mathematical and Computational Approaches, Santa Fe Institute\nExplain the Change"
   },
   {
     "objectID": "publications.html#on-war-a-mathematical-and-computational-approach",
