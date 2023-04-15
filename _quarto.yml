@@ -6,6 +6,7 @@ website:
   title: "Mario De Toma"
   favicon: favicon-32x32.png
   repo-url: https://github.com/mdt-ds/mdt_web
+  google-analytics: "G-ML6DLB3FP3"
   navbar:
     background: dark
     logo: mdt_logo.png
