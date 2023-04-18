@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mario De Toma"
+  site-url: "https://mdt-ds.github.io/mdt_web/"
   favicon: favicon-32x32.png
   repo-url: https://github.com/mdt-ds/mdt_web
   google-analytics: "G-ML6DLB3FP3"
