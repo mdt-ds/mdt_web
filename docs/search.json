@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "dynamical_systems.html",
-    "href": "dynamical_systems.html",
-    "title": "dynamical systems",
-    "section": "",
-    "text": "Mario De Toma strong interest in dynamical systems is demonstrated by his completed studies on the Santa Fe Institute’s Complexity Explorer platform and his self-published essay Explaining Change.\n\nIntroduction to Dynamical Systems and Chaos, Santa Fe Institute\nNonlinear Dynamics: Mathematical and Computational Approaches, Santa Fe Institute\nExplain the Change"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mario De Toma",
@@ -35,10 +28,10 @@
     "text": "Computing Matrix Algebra\nNobody can be a poet without feeling strong affection for words, at the same time nobody can be serious about data science without becoming close friend to matrices.\nComputing Matrix Algebra is actually a cheat sheet about computing matrix algebra operations such as matrix multiplication, inversion and factorization.\nIt is written foR (aspiring) data scientists where with “foR” (capital letter R) it is meant the side of data science addicted to R and its gorgeous ecosystem especially including Rcpp, RcppArmadillo and RcppEigen.\nIt was written taking advantage of the stay-at-home policy during the COVID outbreak and published in April 2020 on Leanpub.\nIn January 2023 the booklet became an interactive course published by educative."
   },
   {
-    "objectID": "publications.html#on-war-a-mathematical-and-computational-approach",
-    "href": "publications.html#on-war-a-mathematical-and-computational-approach",
+    "objectID": "publications.html#on-war-a-mathematical-and-computational-perspective",
+    "href": "publications.html#on-war-a-mathematical-and-computational-perspective",
     "title": "publications",
-    "section": "on war: a mathematical and computational approach",
-    "text": "on war: a mathematical and computational approach\nwork in progress, expected release date: June 2023"
+    "section": "on war: a mathematical and computational perspective",
+    "text": "on war: a mathematical and computational perspective\nOn War is a short essay suggesting how to think about conflicts using mathematical modeling by taking advantage of the foundations of game theory, Markovian processes and system dynamics.\nIt can be read on several levels: as a compendium of mathematical modeling related to war and as a suggestion to shift the focus of war analysis from geopolitics to the inner workings of war itself."
   }
 ]
